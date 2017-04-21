@@ -1,0 +1,8 @@
+[Activity]
+name = TimeLapse
+bundle_id = org.time.lapse
+exec = sugar-activity tlactivity.TimeLapseActivity
+icon = bee
+show_launcher = yes
+activity_version = 2
+license = GPLv3+
